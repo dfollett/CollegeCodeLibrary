@@ -1,0 +1,13 @@
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.csprojAssemblyReference.cache
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.AssemblyInfoInputs.cache
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.AssemblyInfo.cs
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.csproj.CoreCompileInputs.cache
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\bin\Debug\netcoreapp3.1\VehicleExample.exe
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\bin\Debug\netcoreapp3.1\VehicleExample.deps.json
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\bin\Debug\netcoreapp3.1\VehicleExample.runtimeconfig.json
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\bin\Debug\netcoreapp3.1\VehicleExample.runtimeconfig.dev.json
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\bin\Debug\netcoreapp3.1\VehicleExample.dll
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\bin\Debug\netcoreapp3.1\VehicleExample.pdb
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.dll
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.pdb
+C:\Users\djfpl\DNA\VehicleExample\VehicleExample\obj\Debug\netcoreapp3.1\VehicleExample.genruntimeconfig.cache
