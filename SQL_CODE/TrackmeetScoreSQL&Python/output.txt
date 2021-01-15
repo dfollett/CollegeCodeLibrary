@@ -1,0 +1,46 @@
+schoolId	schoolName	state	points
+1	Elk Meadow HS	Oregon	0
+2	High Desert HS	California	0
+3	Summit HS	Idaho	0
+4	Bend HS	Oregon	0
+5	Eastern Oregon HS	Oregon	0
+firstName	lastName	athSchoolId	athId	athEventCount	athGender	athTooManyEventsDqed
+Tom	Dooley	1	1	5	M	True
+Marge	Simpson	1	2	1	F	False
+Janice	Drake	2	3	1	M	False
+Tywaina	Bannister	2	4	1	F	False
+Alexios	Dean	3	5	1	M	False
+Stella	McQueen	3	6	2	F	False
+Wade	Watts	4	7	2	M	False
+June	Sparrow	4	8	3	F	False
+Parcival	Artimis	5	9	2	M	False
+Janice	Johnson	5	10	1	F	False
+eventId	eventName	eventGender	eventType
+1	100 Meter Sprint	M	Track
+2	100 Meter Sprint	F	Track
+3	Javlin	M	Field
+4	Javlin	F	Field
+5	Long Jump	M	Field
+6	Long Jump	F	Field
+7	4x4	M	Track
+8	4x4	F	Track
+resultId	resultEventId	resultAthId	resultTime	resultDistance	resultScratchDqed
+1	1	1	17.15	NULL	False
+2	3	1	NULL	150.25	False
+3	5	1	NULL	15	False
+4	7	1	80.99	NULL	False
+5	7	1	70.43	NULL	False
+6	2	2	20.1	NULL	False
+7	3	3	NULL	160.5	False
+8	4	4	NULL	135.32	False
+9	5	5	NULL	20.44	False
+10	6	6	NULL	16.86	False
+11	7	7	85.66	NULL	False
+12	8	8	90.17	NULL	True
+13	8	8	85	NULL	False
+14	7	9	75.24	NULL	False
+15	6	10	NULL	13.22	False
+16	5	9	NULL	21.93	False
+17	4	8	NULL	150.55	False
+18	3	7	NULL	200.23	False
+19	2	6	17.9	NULL	False
