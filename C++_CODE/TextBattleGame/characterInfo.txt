@@ -1,0 +1,5 @@
+Some_Hero 157 Fireball
+Bad_Guy 250 Acid_Bomb
+5 25
+15 35
+20 30

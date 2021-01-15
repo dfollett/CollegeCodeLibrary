@@ -1,0 +1,58 @@
+Some_Hero (157 HP) will battle Bad_Guy (250 HP)
+
+Some_Hero uses Fireball on Bad_Guy. Bad_Guy takes 16 damage. New HP = 234
+
+Bad_Guy uses Acid_Bomb on Some_Hero. Some_Hero takes 19 damage. New HP = 138
+
+Some_Hero uses Fireball on Bad_Guy. Bad_Guy takes 24 damage. New HP = 210
+
+Bad_Guy uses Acid_Bomb on Some_Hero. Some_Hero takes 34 damage. New HP = 104
+
+Some_Hero uses Fireball on Bad_Guy. Bad_Guy takes 23 damage. New HP = 187
+
+Bad_Guy engulfs health potion and regenerates 6! New HP = 193
+
+Some_Hero uses Fireball on Bad_Guy. Bad_Guy takes 25 damage. New HP = 168
+
+Bad_Guy takes a swing! Some_Hero takes 14 damage. New HP = 90
+
+Some_Hero takes a swing! Bad_Guy takes 20 damage. New HP = 148
+
+Bad_Guy engulfs health potion and regenerates 12! New HP = 160
+
+Some_Hero takes a swing! Bad_Guy takes 7 damage. New HP = 153
+
+Some_Hero engulfs health potion and regenerates 8! New HP = 98
+
+Bad_Guy engulfs health potion and regenerates 5! New HP = 158
+
+Some_Hero engulfs health potion and regenerates 22! New HP = 120
+
+Some_Hero takes a swing! Bad_Guy takes 25 damage. New HP = 133
+
+Bad_Guy takes a swing! Some_Hero takes 12 damage. New HP = 108
+
+Some_Hero takes a swing! Bad_Guy takes 8 damage. New HP = 125
+
+Bad_Guy takes a swing! Some_Hero takes 20 damage. New HP = 88
+
+Some_Hero takes a swing! Bad_Guy takes 21 damage. New HP = 104
+
+Bad_Guy takes a swing! Some_Hero takes 21 damage. New HP = 67
+
+Some_Hero takes a swing! Bad_Guy takes 22 damage. New HP = 82
+
+Bad_Guy takes a swing! Some_Hero takes 19 damage. New HP = 48
+
+Some_Hero takes a swing! Bad_Guy takes 17 damage. New HP = 65
+
+Bad_Guy takes a swing! Some_Hero takes 14 damage. New HP = 34
+
+Some_Hero takes a swing! Bad_Guy takes 7 damage. New HP = 58
+
+Bad_Guy uses Acid_Bomb on Some_Hero. Some_Hero takes 20 damage. New HP = 14
+
+Some_Hero uses Fireball on Bad_Guy. Bad_Guy takes 20 damage. New HP = 38
+
+Bad_Guy uses Acid_Bomb on Some_Hero. Some_Hero takes 28 damage. New HP = -14
+Bad_GuyIS TRIUMPHANT!!!
